@@ -1,0 +1,187 @@
+{
+    "grupos": {
+        "A": {
+            "profesores": [
+                "JAVIER",
+                "MARCELINO",
+                "ROCÍO S",
+                "NEREA",
+                "MIGUEL",
+                "MANUEL",
+                "ISABEL"
+            ],
+            "zonas": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G"
+            ],
+            "dias": [
+                0,
+                4
+            ],
+            "no_baja": [],
+            "contador": 4,
+            "contador_baja": 3,
+            "color": "#c9daf8"
+        },
+        "B": {
+            "profesores": [
+                "CRISTINA L",
+                "Mª CARMEN O",
+                "CRISTINA F",
+                "PAULA",
+                "PILI",
+                "MIRIAM"
+            ],
+            "zonas": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F"
+            ],
+            "dias": [
+                1,
+                4
+            ],
+            "no_baja": [
+                "MECHE",
+                "PATRICIA",
+                "MARGA",
+                "SUSANA"
+            ],
+            "contador": 4,
+            "contador_baja": 3,
+            "color": "#fff2cc"
+        },
+        "C": {
+            "profesores": [
+                "SUSANA",
+                "LAURA",
+                "MAR",
+                "IRIA",
+                "MARÍA A",
+                "ANDRÉS"
+            ],
+            "zonas": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F"
+            ],
+            "dias": [
+                2,
+                4
+            ],
+            "no_baja": [
+                "SUSANA"
+            ],
+            "contador": 4,
+            "contador_baja": 1,
+            "color": "#d9ead3"
+        },
+        "D": {
+            "profesores": [
+                "MARGA",
+                "PILAR",
+                "ANOUSKA",
+                "LUCÍA",
+                "PATRICIA",
+                "JOSÉ R",
+                "MECHE"
+            ],
+            "zonas": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G"
+            ],
+            "dias": [
+                3,
+                4
+            ],
+            "no_baja": [
+                "MECHE",
+                "PATRICIA",
+                "MARGA"
+            ],
+            "contador": 6,
+            "contador_baja": 0,
+            "color": "#f4cccc"
+        }
+    },
+    "festivos": {
+        "11/2025": [
+            3
+        ],
+        "12/2025": [
+            8,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+        ],
+        "1/2026": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "2/2026": [
+            16,
+            17,
+            18
+        ],
+        "3/2026": [
+            19,
+            20,
+            30,
+            31
+        ],
+        "4/2026": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "5/2026": [
+            1,
+            4
+        ],
+        "6/2026": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+        ]
+    }
+}
